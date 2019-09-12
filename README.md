@@ -41,7 +41,7 @@ UC Merced √
  
  New York
  
- Florida
+ Florida √
  
  Texas
  
