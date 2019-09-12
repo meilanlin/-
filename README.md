@@ -35,3 +35,14 @@ UC Merced √
 所有学校都申，蒙中哪个算哪个
 
 ----------------------
+【题目】 下面哪个州里有Disney World？
+
+ North Carolina
+ 
+ New York
+ 
+ Florida
+ 
+ Texas
+ 
+ ----------------------
