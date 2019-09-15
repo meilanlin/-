@@ -66,3 +66,14 @@ Emerson College
 Boston University
 
 MIT √
+
+ ----------------------
+【题目】 下面哪个公司的主要收入不是来自广告？
+
+Facebook
+
+Snapchat
+
+Google
+
+Apple √
