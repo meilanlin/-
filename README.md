@@ -55,3 +55,14 @@ UC Merced √
  莱斯大学
  
  埃默里大学
+ 
+ ----------------------
+ 【题目】 下面哪所大学所在城市不是波士顿？
+
+Northeastern University
+
+Emerson College
+
+Boston University
+
+MIT √
