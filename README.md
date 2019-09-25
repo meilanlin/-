@@ -111,7 +111,6 @@ Uber
 
 Google
 
-
 ----------------------
 【题目】 下面哪个大学实际上不存在？
 
@@ -122,3 +121,14 @@ University of Massachusetts, Dartmouth
 University of Michigan, Twin City √
 
 University of California, San Francisco
+
+----------------------
+【题目】 下面哪个说法错误？
+
+伊利诺伊大学在芝加哥有校区
+
+美国西北大学在芝加哥有校区
+
+芝加哥是美国著名的雨城 √
+
+芝加哥skydeck上可以看到四个州
