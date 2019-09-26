@@ -132,3 +132,14 @@ University of California, San Francisco
 芝加哥是美国著名的雨城 √
 
 芝加哥skydeck上可以看到四个州
+
+----------------------
+【题目】 下面哪个大学在华盛顿州？
+
+George Washington University
+
+Washington College
+
+University of Washington √
+
+Washington University
