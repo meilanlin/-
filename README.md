@@ -143,3 +143,14 @@ Washington College
 University of Washington √
 
 Washington University
+
+----------------------
+【题目】 下面哪个州不属于西海岸三州？
+
+华盛顿
+
+俄勒冈
+
+加利福尼亚
+
+内华达 √
