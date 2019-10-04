@@ -154,3 +154,14 @@ Washington University
 加利福尼亚
 
 内华达 √
+
+----------------------
+【题目】 下面哪个州，没有state income tax?
+
+New York
+
+New Jersey
+
+New Mexico
+
+New Hampshire √
